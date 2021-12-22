@@ -1,11 +1,17 @@
 [bestbash my beloved](https://github.com/jaivardhankapoor/bestbash)
 
-Instructions from Repo
+Instructions from Repo:
 
-clone into home
+Clone into home
+
 `git clone https://github.com/jaivardhankapoor/bestbash ~/.bash/`
-#backup old .bashrc and .bashrc related files
+
+Backup old .bashrc and .bashrc related files
+
 `mv .bashrc .bashrc.bak`
-create symlink for .bashrc
+
+Create symlink for .bashrc
+
 `ln -s ~/.bash/init ~/.bashrc`
-#ALL DONE!
+
+ALL DONE!
