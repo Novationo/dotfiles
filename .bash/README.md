@@ -1,3 +1,5 @@
+# Bash `.bashrc` config
+
 [bestbash my beloved](https://github.com/jaivardhankapoor/bestbash)
 
 Instructions from Repo:
