@@ -40,6 +40,7 @@
  I usually use Snap for things i dont care about and dont use that often
   - [NodeJS](https://snapcraft.io/node) - Its easy to update, always up to date too.
   - [Raspberry Pi Imager](https://snapcraft.io/rpi-imager)
+  - [Emote](https://snapcraft.io/emote) - Basic Emoji Picker for Linux
 
 ## Flathub
  - [Popsicle](https://flathub.org/apps/details/com.system76.Popsicle) - Quick USB Flasher, System76 is awesome
