@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles that i normally uses, includes other configs e.g. neofetch
+This isn't really dotfiles but more like all around configs and stuff i use
