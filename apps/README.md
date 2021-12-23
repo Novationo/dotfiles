@@ -42,7 +42,7 @@
   - [Raspberry Pi Imager](https://snapcraft.io/rpi-imager)
 
 ## Flathub
- - [Popsicle](https://flathub.org/apps/details/com.system76.Popsicle)
- - [Pebbles](https://flathub.org/apps/details/com.github.subhadeepjasu.pebbles)
+ - [Popsicle](https://flathub.org/apps/details/com.system76.Popsicle) - Quick USB Flasher, System76 is awesome
+ - [Pebbles](https://flathub.org/apps/details/com.github.subhadeepjasu.pebbles) - Thicc Calculator
  - [Discord](https://flathub.org/apps/details/com.discordapp.Discord) - I Usually use the normal binary over flatpak but im trying to move over more stuff to flatpak
 
