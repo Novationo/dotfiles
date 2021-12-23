@@ -47,3 +47,7 @@
  - [Pebbles](https://flathub.org/apps/details/com.github.subhadeepjasu.pebbles) - Thicc Calculator
  - [Discord](https://flathub.org/apps/details/com.discordapp.Discord) - I Usually use the normal binary over flatpak but im trying to move over more stuff to flatpak
 
+<!-- 
+obsidian
+copyq/diodon
+-->
