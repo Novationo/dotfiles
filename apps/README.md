@@ -14,6 +14,7 @@
  - [neofetch](https://github.com/dylanaraps/neofetch)
  - [jfetch](https://github.com/Jimmysit0/jfetch)
  - [fet.sh](https://github.com/6gk/fet.sh)
+ - [lsd](https://github.com/Peltoche/lsd)
 
 ## Gaming
  - [Steam](https://store.steampowered.com/about/) - Why the heck would I not have Steam!?
