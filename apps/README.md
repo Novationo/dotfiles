@@ -19,13 +19,10 @@
  - [Steam](https://store.steampowered.com/about/) - Why the heck would I not have Steam!?
  - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom) - I like your eggrolls
  - [Lutris](https://lutris.net/downloads) - Premade wine configs, good game launcher, based
- - [Darling](https://www.darlinghq.org/) -Wine but for MacOS apps, kinda funny
- - [Wine](https://www.winehq.org/) - This is obvious
- - [PlayOnLinux](https://www.playonlinux.com/en/download.html) - Also Obvious
+ - [PlayOnLinux](https://www.playonlinux.com/en/download.html) - Lutris Dependency I think idk
  - [Minecraft](https://minecraft.net/en-us/download/) - Obv.
  - [Armagetron Advanced](http://www.armagetronad.org/) - Download on literally any repo you can think of
  - [SuperTuxCart](https://supertuxkart.net/Main_Page)
- - [MCPE Launcher](https://github.com/ChristopherHX/linux-packaging-scripts/releases/tag/v0.3.2-682) - Bedrock Edition on Linux
 
 ## Development Tools I Guess
  - [Github Desktop](https://github.com/shiftkey/Desktop/releases/) - Me Like
@@ -33,6 +30,7 @@
 
  ## AppImages
  - [osu!](https://github.com/ppy/osu/) - click the circles!
+ - [MCPE Launcher](https://github.com/ChristopherHX/linux-packaging-scripts/releases/tag/v0.3.2-682) - Bedrock Edition on Linux
  - [BalenaEtcher](https://etcher.io) - Popsicle is Better
  - [Lunar Client](https://lunarclient.com/download) - Don't Really Care Optifine is fine
 
@@ -47,7 +45,11 @@
  - [Pebbles](https://flathub.org/apps/details/com.github.subhadeepjasu.pebbles) - Thicc Calculator
  - [Discord](https://flathub.org/apps/details/com.discordapp.Discord) - I Usually use the normal binary over flatpak but im trying to move over more stuff to flatpak
 
-<!-- 
-obsidian
+## Random
+- Obsidian.md
+- DarlingHQ
+
+
+<!-- WIP
 copyq/diodon
 -->
