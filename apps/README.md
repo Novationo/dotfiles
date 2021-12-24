@@ -3,7 +3,6 @@
  - [Brave](https://brave.com/linux/#release-channel-installation/) - Fav. Browser =)
  - [Google Chrome](https://www.google.com/chrome/) - For School
  - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - PDF Viewer
- - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/releases) - Integrates AppImages
  - [Flatpak / Flathub](https://flatpak.org)
  - [Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk) - Frick Oracle Java, Frick IBM Java slightly less
 
@@ -11,10 +10,10 @@
  - [NeoVim](https://github.com/neovim/neovim) - heck vi
  - [Nano](https://www.nano-editor.org/) - on repos like omg
  - [btop++](https://github.com/aristocratos/btop) - ReWrite of Bashtop / Bpytop written in C++
- - [neofetch](https://github.com/dylanaraps/neofetch)
- - [jfetch](https://github.com/Jimmysit0/jfetch)
- - [fet.sh](https://github.com/6gk/fet.sh)
- - [lsd](https://github.com/Peltoche/lsd)
+ - [neofetch](https://github.com/dylanaraps/neofetch) - flex on peeps
+ - [jfetch](https://github.com/Jimmysit0/jfetch) - flex more / less
+ - [fet.sh](https://github.com/6gk/fet.sh) flex morer / lesser
+ - [lsd](https://github.com/Peltoche/lsd) - ls on lsd (requires nerd fonts)
 
 ## Gaming
  - [Steam](https://store.steampowered.com/about/) - Why the heck would I not have Steam!?
@@ -47,8 +46,9 @@
  - [Discord](https://flathub.org/apps/details/com.discordapp.Discord) - I Usually use the normal binary over flatpak but im trying to move over more stuff to flatpak
 
 ## Random
-- Obsidian.md
-- DarlingHQ
+ - [Obsidian.md](https://obsidian.md) - Notetaking / Good Markdown Editor
+ - [DarlingHQ](https://darlinghq.org) - Wine but for MacOS apps
+ - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/releases) - Integrates AppImages
 
 
 <!-- WIP
