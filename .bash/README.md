@@ -4,10 +4,12 @@
 
 Instructions from Repo:
 
-```# Clone into home
+```
+// Clone into home
 git clone https://github.com/jaivardhankapoor/bestbash ~/.bash/
-# Backup old .bashrc and .bashrc related files
+// Backup old .bashrc and .bashrc related files
 mv .bashrc .bashrc.bak
-# Create symlink for .bashrc
+// Create symlink for .bashrc
 ln -s ~/.bash/init ~/.bashrc
-# ALL DONE!```
+// ALL DONE!
+```
