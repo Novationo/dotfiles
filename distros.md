@@ -20,8 +20,11 @@
 >
 >❌Kinda boring ngl, but easy to make it not boring
  - Windows 10 / 11
+
 Q: WhY iS MiCHeaLsOFt biNbOwS oN hERe?!?!?!?
+
 A: whatever the laptop says goes
+
 > ✅Its windows, compatibility is immaculate 
 > 
 > ❌its windows, runs like shit, kinda mid 
@@ -34,8 +37,11 @@ A: whatever the laptop says goes
  >
  >❌comes with gnome / ubuntu software, so makes it bad
  - Fedora Rawhide
+
 Q: wHy WoUld yOU dAilY rAwHiDe!?!?!?!!?!
+
 A: Because I can And I usually don't care.
+
 >✅Shits fresh as hell like Pipewire ***AND*** GNOME 42, like sheeeeessh!
 >
 >❌Anaconda Installer isn't the most user friendly, Fedora usually runs super slow relatively to Ubuntu / Arch Bases
