@@ -1,0 +1,23 @@
+{
+  "C++ main template": {
+    "prefix": "cppmain",
+    "body": [
+      "/*",
+      "Name: Dylan Smith",
+      "Assignment Name: ",
+      "Summary: ",
+      "*/",
+      "#include <iostream>",
+      "#include <iomanip>",
+      "#include <string>",
+      "// using namespace std;",
+      "",
+      "int main()",
+      "{",
+      "    ",
+      "    return 0;",
+      "}"
+    ],
+    "description": "C++ main function template"
+  }
+}

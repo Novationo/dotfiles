@@ -1,0 +1,56 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "icon_theme": "Colored Zed Icons Theme Dark",
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "active_pane_modifiers": {
+    "border_size": 0.0,
+    "inactive_opacity": 1.0
+  },
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Zedokai Darker (Filter Spectrum)"
+  },
+  "terminal": {
+    "font_family": "Google Sans Code"
+  },
+  "tabs": {
+    "close_position": "right",
+    "file_icons": true,
+    "git_status": true,
+    "activate_on_close": "history",
+    "show_close_button": "hover",
+    "show_diagnostics": "errors"
+  },
+  //"buffer_font_family": ".ZedMono"
+  "buffer_font_family": "Google Sans Code",
+  //"soft_wrap": "preferred_line_length"
+  "soft_wrap": "bounded",
+  "preferred_line_length": 80,
+  "buffer_font_features": {
+    "calt": true
+  },
+  // Control which items are shown/hidden in the title bar
+  "title_bar": {
+    "show_branch_icon": true, // Show/hide branch icon beside branch switcher
+    "show_branch_name": true, // Show/hide branch name
+    "show_project_items": true, // Show/hide project host and name
+    "show_onboarding_banner": true, // Show/hide onboarding banners
+    "show_user_picture": false, // Show/hide user avatar
+    "show_sign_in": false, // Show/hide sign-in button
+    "show_menus": false // Show/hide menus
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000
+    }
+  }
+}
